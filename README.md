@@ -3,3 +3,13 @@ This repository contains code and results for COVID-19 classification assignment
 
 
 ## DataSet Can be Found Here [COVID Datasets](https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view).
+
+## Fine Tuning Fully Connected Layers
+
+### VGG16:
+
+
+|          | Infected  | Normal |
+           | --------- | -------|
+| Infected | 589  | 26  |
+|  Normal  | 14   | 871  |
