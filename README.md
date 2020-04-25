@@ -17,27 +17,27 @@ This repository contains code and results for COVID-19 classification assignment
 ### ResNet18: Confusion Matrix
 
 
-| Infected  | Normal |
-| --------- | -------|
-|   562     |   53   |
-|   40      |   845  |
+|  Class  | Infected  | Normal |
+|-------- | --------- | -------|
+| Infected|   562     |   53   |
+| Normal  |   40      |   845  |
 
 ## Fine Tuning All Layers
 
 ### VGG16: Confusion Matrix
 
-| Infected  | Normal |
-| --------- | -------|
-|   581     |   34   |
-|   10      |   875  |
+|  Class  | Infected  | Normal |
+|-------- | --------- | -------|
+| Infected|   581     |   34   |
+| Normal  |   10      |   875  |
 
 ### ResNet18: Confusion Matrix
 
 
-| Infected  | Normal |
-| --------- | -------|
-|   600     |   15   |
-|   34      |   851  |
+|  Class  | Infected  | Normal |
+|-------- | --------- | -------|
+| Infected|   600     |   15   |
+| Normal  |   34      |   851  |
 
 
 ## Best OverAll Accuracy 
