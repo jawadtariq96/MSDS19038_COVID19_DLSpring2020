@@ -9,7 +9,7 @@ This repository contains code and results for COVID-19 classification assignment
 ### VGG16:
 
 
-|          | Infected  | Normal |
-           | --------- | -------|
-| Infected | 589  | 26  |
-|  Normal  | 14   | 871  |
+| Infected  | Normal |
+| --------- | -------|
+|   589     |   26   |
+|   14      |   871  |
