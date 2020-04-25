@@ -6,10 +6,36 @@ This repository contains code and results for COVID-19 classification assignment
 
 ## Fine Tuning Fully Connected Layers
 
-### VGG16:
+### VGG16: Confusion Matrix
 
 
 | Infected  | Normal |
 | --------- | -------|
 |   589     |   26   |
 |   14      |   871  |
+
+### ResNet18: Confusion Matrix
+
+
+| Infected  | Normal |
+| --------- | -------|
+|   562     |   53   |
+|   40      |   845  |
+
+## Fine Tuning All Layers
+
+### VGG16: Confusion Matrix
+
+
+| Infected  | Normal |
+| --------- | -------|
+|   581     |   34   |
+|   10      |   875  |
+
+### ResNet18: Confusion Matrix
+
+
+| Infected  | Normal |
+| --------- | -------|
+|   600     |   15   |
+|   34      |   851  |
