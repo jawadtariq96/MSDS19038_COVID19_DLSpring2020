@@ -9,10 +9,10 @@ This repository contains code and results for COVID-19 classification assignment
 ### VGG16: Confusion Matrix
 
 
-| Infected  | Normal |
-| --------- | -------|
-|   589     |   26   |
-|   14      |   871  |
+|  Class  | Infected  | Normal |
+|-------- | --------- | -------|
+| Infected|   589     |   26   |
+| Normal  |   14      |   871  |
 
 ### ResNet18: Confusion Matrix
 
