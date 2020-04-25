@@ -26,7 +26,6 @@ This repository contains code and results for COVID-19 classification assignment
 
 ### VGG16: Confusion Matrix
 
-
 | Infected  | Normal |
 | --------- | -------|
 |   581     |   34   |
@@ -39,3 +38,11 @@ This repository contains code and results for COVID-19 classification assignment
 | --------- | -------|
 |   600     |   15   |
 |   34      |   851  |
+
+
+## Best OverAll Accuracy 
+
+|   Model     | Testing Accuracy | Training Accuracy | Validation Accuracy |
+| ---------   | -----------------| ----------------- | ------------------- |
+|   VGG18     |     0.9733       |     0.9595        |        0.9167       |
+
