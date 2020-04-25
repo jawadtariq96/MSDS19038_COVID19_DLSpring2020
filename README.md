@@ -44,5 +44,5 @@ This repository contains code and results for COVID-19 classification assignment
 
 |   Model     | Testing Accuracy | Training Accuracy | Validation Accuracy |
 | ---------   | -----------------| ----------------- | ------------------- |
-|   VGG18     |     0.9733       |     0.9595        |        0.9167       |
+|   VGG16     |     0.9733       |     0.9595        |        0.9167       |
 
