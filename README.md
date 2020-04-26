@@ -44,5 +44,16 @@ This repository contains code and results for COVID-19 classification assignment
 
 |   Model     | Testing Accuracy | Training Accuracy | Validation Accuracy |
 | ---------   | -----------------| ----------------- | ------------------- |
-|   VGG16     |     0.9733       |     0.9595        |        0.9167       |
+|   VGG16     |     0.9733       |     0.9595        |        0.9167       |   
+
+## Experiments Details:
+
+|   Model         |     Layers Fine Tuned   |  Testing Accuracy | Training Accuracy | Validation Accuracy |
+| --------------  |     -----------------   | ----------------- | ----------------- | ------------------- |
+|   VGG16         |        Only FC Layers   |     0.9733        |     0.9595        |        0.9167       | 
+|   VGG16         |        All Layers       |     0.9707        |     0.95917       |        0.9187       | 
+|   ResNet18      |        FC Layers        |     0.93          |     0.8745        |        0.874        | 
+|   ResNet18      |       FC + 9 Layers     |     0.9647        |     0.9625        |        0.9167       |
+|   ResNet18      |       All Layers        |     0.967         |     0.9625        |        0.9167       |
+
 
