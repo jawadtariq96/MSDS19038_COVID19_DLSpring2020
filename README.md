@@ -7,6 +7,18 @@ This repository contains code and results for COVID-19 classification assignment
 ## Weights can be Found Here [Model Weights](https://drive.google.com/drive/folders/1WJ6FaGY4FZUmKL7060vW3gQxTVhqeSo8?usp=sharing).
 
 
+## VGG16 with Binary Cross Entropy
+
+### Training Data
+
+|  Class  | Infected  | Normal |             |Class     |   Infected  | Normal    |   
+|-------- | --------- | -------|             |-------   |  ---------  | -------   |
+| Infected|   581     |   34   |             | Infected |     581     |   34      |
+| Normal  |   10      |   875  |
+
+
+
+
 ## Experiments Details:
 
 |   Model         |     Loss Functions      |  Focal Loss Parms |  F1 Score: COVID19 | 
