@@ -12,9 +12,9 @@ This repository contains code and results for COVID-19 classification assignment
 ### Training Data
 
 |  Class  | Infected  | Normal |             |Class     |   Infected  | Normal    |   
-|-------- | --------- | -------|             |-------   |  ---------  | -------   |
+|-------- | --------- | -------| -------     |-------   |  ---------  | -------   |
 | Infected|   581     |   34   |             | Infected |     581     |   34      |
-| Normal  |   10      |   875  |
+| Normal  |   10      |   875  |             | Normal   |     10      |   875     |
 
 
 
