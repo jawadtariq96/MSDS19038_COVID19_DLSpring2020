@@ -12,7 +12,7 @@ This repository contains code and results for COVID-19 classification assignment
 ### Training Data
 
 <table>
-<tr><th> COVID19 Class </th><th> Pneumonia Class</th></tr>
+  <tr><th> COVID19 Class </th><th> Pneumonia Class</th> <th>Normal Class</th> </tr>
 <tr><td>
 
 |   Class     | COVID19 | Not COVID19 |
@@ -24,8 +24,15 @@ This repository contains code and results for COVID-19 classification assignment
 
 |   Class       | Pneumonia | Not Pneumonia |
 | --------      |  -----    |  -------      |
-| Pneumonia     |  17       |    11         |
-| Not Pneumonia |   0       |    600        |
+| Pneumonia     |  202      |    26         |
+| Not Pneumonia |   2       |    398        |
+</td><td>
+
+|   Class       | Normal    | Not Normal    |
+| --------      |  -----    |  -------      |
+| Pneumonia     |  399      |    1          |
+| Not Pneumonia |   28      |    200        |
+
 
 </td></tr> </table>
 
