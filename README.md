@@ -121,6 +121,63 @@ This repository contains code and results for COVID-19 classification assignment
 </td></tr> </table>
 
 
+## VGG16 with Focal Loss
+
+ ### Training Data
+ 
+<table>
+  <tr><th> COVID19 Class </th><th> Pneumonia Class</th> <th>Normal Class</th> </tr>
+<tr><td>
+  
+
+|   Class    | COVID19 | Not COVID19 |
+| ---------  |  ----   |  -------    |
+| COVID19    |  190    |    10       |
+| Not COVID19|   8     |    5992     |
+
+</td><td>
+
+|   Class      | Pneumonia| Not Pneumonia |
+| --------     |  -----   |  -------      |
+| Pneumonia    |  2133    |    67         |
+| Not Pneumonia|   80     |    3920       |
+</td><td>
+
+|   Class    | Normal  | Not Normal|
+| --------   |  -----  |  -------  |
+| Normal     |  3913   |    87     |
+| Not Normal |   61    |    2139   |
+
+</td></tr> </table>
+
+### Validation Data
+
+<table>
+  <tr><th> COVID19 Class </th><th> Pneumonia Class</th> <th>Normal Class</th> </tr>
+<tr><td>
+  
+
+|   Class    | COVID19 | Not COVID19 |
+| ---------  |  ----   |  -------    |
+| COVID19    |  23     |    5        |
+| Not COVID19|   0     |    600      |
+
+</td><td>
+
+|   Class      | Pneumonia| Not Pneumonia |
+| --------     |  -----   |  -------      |
+| Pneumonia    |  212     |    16         |
+| Not Pneumonia|   10     |    390        |
+</td><td>
+
+|   Class    | Normal  | Not Normal|
+| --------   |  -----  |  -------  |
+| Normal     |  391    |    9      |
+| Not Normal |  16     |    212    |
+
+</td></tr> </table>
+
+
 
 ## Experiments Details:
 
