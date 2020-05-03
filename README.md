@@ -4,9 +4,9 @@ This repository contains code and results for COVID-19 classification assignment
 
 # Assignment 5 Part A
 
-### DataSet Can be Found Here [COVID Datasets2](https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view).
+### DataSet Can be Found Here [COVID Datasets](https://drive.google.com/drive/u/0/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR).
 
-### Weights can be Found Here [Model Weights](https://drive.google.com/drive/folders/1WJ6FaGY4FZUmKL7060vW3gQxTVhqeSo8?usp=sharing).
+### Weights can be Found Here [Model Weights](https://drive.google.com/drive/u/1/folders/1wBSvwVtaziI28yTcr-jsAiymEESpMrXG).
 
 ## Fine Tuning Fully Connected Layers
 
