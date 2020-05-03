@@ -3,6 +3,11 @@ This repository contains code and results for COVID-19 classification assignment
 
 
 # Assignment 5 Part A
+
+### DataSet Can be Found Here [COVID Datasets2](https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view).
+
+### Weights can be Found Here [Model Weights](https://drive.google.com/drive/folders/1WJ6FaGY4FZUmKL7060vW3gQxTVhqeSo8?usp=sharing).
+
 ## Fine Tuning Fully Connected Layers
 
 ### VGG16: Confusion Matrix
@@ -60,9 +65,9 @@ This repository contains code and results for COVID-19 classification assignment
 
 # Assignment5 Part B:  
 
-## DataSet Can be Found Here [COVID Datasets](https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view).
+### DataSet Can be Found Here [COVID Datasets2](https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view).
 
-## Weights can be Found Here [Model Weights](https://drive.google.com/drive/folders/1WJ6FaGY4FZUmKL7060vW3gQxTVhqeSo8?usp=sharing).
+### Weights can be Found Here [Model Weights](https://drive.google.com/drive/folders/1WJ6FaGY4FZUmKL7060vW3gQxTVhqeSo8?usp=sharing).
 
 
 ## VGG16 with Binary Cross Entropy
