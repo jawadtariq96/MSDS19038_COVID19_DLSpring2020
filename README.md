@@ -28,10 +28,10 @@ This repository contains code and results for COVID-19 classification assignment
 | Not Pneumonia |   2       |    398        |
 </td><td>
 
-|   Class       | Normal    | Not Normal    |
-| --------      |  -----    |  -------      |
-| Pneumonia     |  399      |    1          |
-| Not Pneumonia |   28      |    200        |
+|   Class    | Normal  | Not Normal|
+| --------   |  -----  |  -------  |
+| Normal     |  399    |    1      |
+| Not Normal |   28    |    200    |
 
 
 </td></tr> </table>
