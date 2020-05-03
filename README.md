@@ -10,9 +10,8 @@ This repository contains code and results for COVID-19 classification assignment
 ## Experiments Details:
 
 |   Model         |     Loss Functions      |  Focal Loss Parms |  F1 Score: COVID19 | 
-
 | --------------  |     -----------------   | ----------------- | -----------------  |      
-|   VGG16         |        BCE              |       -           |     0.81           |
-|   ResNet18      |        BCE              |       -           |     0.76           |     
+|   VGG16         |        BCE              |                   |     0.81           |
+|   ResNet18      |        BCE              |                   |     0.76           |     
 |   VGG16         |        Focal Loss       |     a =2, g =2    |     0.90           |      
 |   ResNet18      |        Focal Los        |     a1 = 1 g=2    |     0.88           |  
