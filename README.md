@@ -64,6 +64,62 @@ This repository contains code and results for COVID-19 classification assignment
 </td></tr> </table>
 
 
+## ResNet18 with Binary Cross Entropy
+
+ ### Training Data
+ 
+<table>
+  <tr><th> COVID19 Class </th><th> Pneumonia Class</th> <th>Normal Class</th> </tr>
+<tr><td>
+  
+
+|   Class    | COVID19 | Not COVID19 |
+| ---------  |  ----   |  -------    |
+| COVID19    |  188    |    12       |
+| Not COVID19|   7     |    5993     |
+
+</td><td>
+
+|   Class      | Pneumonia| Not Pneumonia |
+| --------     |  -----   |  -------      |
+| Pneumonia    |  1971    |    229        |
+| Not Pneumonia|   7      |    3993       |
+</td><td>
+
+|   Class    | Normal  | Not Normal|
+| --------   |  -----  |  -------  |
+| Normal     |  3993   |    7      |
+| Not Normal |   221   |    1979   |
+
+</td></tr> </table>
+
+### Validation Data
+
+<table>
+  <tr><th> COVID19 Class </th><th> Pneumonia Class</th> <th>Normal Class</th> </tr>
+<tr><td>
+  
+
+|   Class    | COVID19 | Not COVID19 |
+| ---------  |  ----   |  -------    |
+| COVID19    |  22     |    6        |
+| Not COVID19|   4     |    596      |
+
+</td><td>
+
+|   Class      | Pneumonia| Not Pneumonia |
+| --------     |  -----   |  -------      |
+| Pneumonia    |  213     |    15         |
+| Not Pneumonia|   9      |    391        |
+</td><td>
+
+|   Class    | Normal  | Not Normal|
+| --------   |  -----  |  -------  |
+| Normal     |  391    |    9      |
+| Not Normal |  15     |    213    |
+
+</td></tr> </table>
+
 
 
 ## Experiments Details:
