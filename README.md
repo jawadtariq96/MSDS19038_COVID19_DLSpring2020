@@ -12,9 +12,26 @@ This repository contains code and results for COVID-19 classification assignment
 ### Training Data
 
 |  Class  | Infected  | Normal |             |Class     |   Infected  | Normal    |   
-|-------- | --------- | -------|             |-------   |  ---------  | -------   |
+|-------- | --------- | -------| ---------   |-------   |  ---------  | -------   |
 | Infected|   581     |   34   |             | Infected |     581     |   34      |
 | Normal  |   10      |   875  |             | Normal   |     10      |   875     |
+
+
+<table>
+<tr><th> COVID19 Class </th><th> Pneumonia Class</th></tr>
+<tr><td>
+
+|Table 1| Middle | Table 2|
+| ----  |  ----  | ------ |
+|   a   |  not b |  and c |
+
+</td><td>
+
+|b     |1    |2   |3   | 
+|--    |--   | -- |--  |
+|a     | s   | d  | f  |
+
+</td></tr> </table>
 
 
 
