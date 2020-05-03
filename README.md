@@ -177,6 +177,62 @@ This repository contains code and results for COVID-19 classification assignment
 
 </td></tr> </table>
 
+## ResNet18 with Focal Loss
+
+ ### Training Data
+ 
+<table>
+  <tr><th> COVID19 Class </th><th> Pneumonia Class</th> <th>Normal Class</th> </tr>
+<tr><td>
+  
+
+|   Class    | COVID19 | Not COVID19 |
+| ---------  |  ----   |  -------    |
+| COVID19    |  192    |    8        |
+| Not COVID19|   55    |    5945     |
+
+</td><td>
+
+|   Class      | Pneumonia| Not Pneumonia |
+| --------     |  -----   |  -------      |
+| Pneumonia    |  2119    |    81         |
+| Not Pneumonia|   242    |    3758       |
+</td><td>
+
+|   Class    | Normal  | Not Normal|
+| --------   |  -----  |  -------  |
+| Normal     |  3760   |    240    |
+| Not Normal |   87    |    2113   |
+
+</td></tr> </table>
+
+### Validation Data
+
+<table>
+  <tr><th> COVID19 Class </th><th> Pneumonia Class</th> <th>Normal Class</th> </tr>
+<tr><td>
+  
+
+|   Class    | COVID19 | Not COVID19 |
+| ---------  |  ----   |  -------    |
+| COVID19    |  25     |    3        |
+| Not COVID19|   4     |    596      |
+
+</td><td>
+
+|   Class      | Pneumonia| Not Pneumonia |
+| --------     |  -----   |  -------      |
+| Pneumonia    |  215     |    13         |
+| Not Pneumonia|   29     |    371        |
+</td><td>
+
+|   Class    | Normal  | Not Normal|
+| --------   |  -----  |  -------  |
+| Normal     |  368    |    32     |
+| Not Normal |  13     |    215    |
+
+</td></tr> </table>
+
 
 
 ## Experiments Details:
