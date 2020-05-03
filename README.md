@@ -15,17 +15,17 @@ This repository contains code and results for COVID-19 classification assignment
   <tr><th> COVID19 Class </th><th> Pneumonia Class</th> <th>Normal Class</th> </tr>
 <tr><td>
 
-|   Class     | COVID19 | Not COVID19 |
-| ---------   |  ----   |  -------    |
-| COVID19     |  17     |    11       |
-| Not COVID19 |   0     |    600      |
+|   Class    | COVID19 | Not COVID19 |
+| ---------  |  ----   |  -------    |
+| COVID19    |  17     |    11       |
+| Not COVID19|   0     |    600      |
 
 </td><td>
 
-|   Class       | Pneumonia | Not Pneumonia |
-| --------      |  -----    |  -------      |
-| Pneumonia     |  202      |    26         |
-| Not Pneumonia |   2       |    398        |
+|   Class      | Pneumonia| Not Pneumonia |
+| --------     |  -----   |  -------      |
+| Pneumonia    |  202     |    26         |
+| Not Pneumonia|   2      |    398        |
 </td><td>
 
 |   Class    | Normal  | Not Normal|
